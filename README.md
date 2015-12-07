@@ -17,7 +17,7 @@ A bot with implemented logic for playing Santase game:
 News Articles are stored in different categories.
 
 ###The URL of source control repository is:
-https://github.com/Moiraines/WebNews
+https://github.com/Moiraines/AscendanceAI
 
 ### Algorithm and details explanation
 
